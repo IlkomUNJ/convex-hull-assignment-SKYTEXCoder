@@ -1,8 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/T_SwjO2j)
 # Identity
-Name : Dandy Arya Akbar
-NIM: 1313623028
-Class: Bachelor's Of Computer Science 2023 A
+Name : Dandy Arya Akbar.
+NIM: 1313623028.
+Class: Bachelor's Of Computer Science 2023 A.
 
 # AI Usage
 > Explain how you use the AI to solve the assignment. Put all ***your used queries*** in this section & what kind of AI are you using. Declare not using AI if you didn't do this.  
